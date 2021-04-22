@@ -1,0 +1,10 @@
+$Id: TODO 37 2004-05-16 15:42:51Z efb $
+
+o Create one file with everything needed for the decoder
+
+o Check the names of the filtering functions and variables
+  - pfilter
+  - sfilter
+  - den / states
+
+o Rewrite ccoder_search_{ac,fc}
